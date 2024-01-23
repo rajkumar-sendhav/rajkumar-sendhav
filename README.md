@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajkumar-sendhav
 - 👀 I’m interested in React Native 
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking for a job in React Native
+- 🌱 I’m currently learning
+- 💞️ I’m a React Native Developer
 
 - 📫 rajkumarsendhav82@gmail.com
 
